@@ -2,6 +2,18 @@
 
 An AI agent skill for interacting with the [Up Banking API](https://developer.up.com.au/). Query accounts, transactions, categories, and tags.
 
+## Installation
+
+### Via [skills.sh](https://skills.sh/)
+
+`npx skills add tcn33/up-banking-api-skill`
+
+### Manual installation
+
+Clone the repo: `git clone https://github.com/tcn33/up-banking-api-skill.git ~/.claude/skills/up-api`.
+
+Alternative: Download the ZIP and extract to `~/.claude/skills/up-api`.
+
 ## Setup
 
 ### 1. Get your API token
