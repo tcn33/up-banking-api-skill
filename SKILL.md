@@ -14,7 +14,7 @@ description: |
 
 ## Setup
 
-Requires `UP_API_TOKEN` environment variable. Get token from the Up app (Profile > Manage > Developer > Personal Access Tokens).
+Requires `UP_API_TOKEN` environment variable. Get your token at [api.up.com.au](https://api.up.com.au) by scanning the QR code with your Up app.
 
 Verify setup: `python3 scripts/up_api.py ping`
 

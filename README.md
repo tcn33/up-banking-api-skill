@@ -18,9 +18,9 @@ Alternative: Download the ZIP and extract to `~/.claude/skills/up-api`.
 
 ### 1. Get your API token
 
-1. Open the Up app on your phone
-2. Go to Profile > Manage > Developer > Personal Access Tokens
-3. Create a new token
+1. Visit [api.up.com.au](https://api.up.com.au)
+2. Scan the QR code with your Up app
+3. Copy the generated token
 
 ### 2. Set the environment variable
 
